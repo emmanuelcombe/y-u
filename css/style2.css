@@ -1,0 +1,373 @@
+
+
+.container {
+	margin : 50px;
+
+}
+
+.brochette_du_haut{
+	display: flex;
+	margin-top: 150px;
+	justify-content: space-around;
+
+}
+
+.brochette_du_bas{
+	display: flex;
+	justify-content: space-around;
+	text-decoration-color: white;
+
+}
+
+.buttons_p2{
+	display: flex;
+	margin-top : 450px;
+	justify-content: space-around;
+}
+
+.buttons_p3{
+	display: flex;
+	margin-top: 500px;
+	justify-content: space-around;
+	/*align-items: right;*/
+}
+
+.buttons_p4{
+	display: flex;
+	margin-top: 125px;
+	justify-content: space-around;
+}
+
+.button1{
+	text-align: center; 
+	padding: 20px;
+	width: 200px;
+	padding: auto;
+	color: white;
+	text-decoration: none;
+	font-size: 16px;
+	background: rgba(70, 126, 128, 0.49);
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.66);
+	border-radius: 20px;
+	font-family: Heebo;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+font-size: 20px;
+
+}
+
+.portrait{
+	width: 100px;
+	height: 100px;
+}
+
+.names {
+	font-family: Heebo;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+font-size: 20px;
+text-align: left;
+
+color: #7BB8BC;
+margin: 2px;
+}
+
+.profile {
+	font-family: Heebo;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+font-size: 14px;
+text-align: left;
+
+color: #7BB8BC;
+margin: 3px;
+}
+
+.details {
+	font-family: Heebo;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+font-size: 10px;
+text-align: left;
+
+color: #7BB8BC;
+margin: 3px;
+}
+
+/*.cards h3 {
+	/*position: absolute;*/
+/*left: 24.58%;
+right: 60.9%;
+top: 215.58%;
+bottom: -139.29%;
+*/
+/*font-family: Heebo;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+font-size: 24px;
+text-align: left;
+
+color: #7BB8BC;
+margin: 5px;
+*/
+
+/*	font-size: 15px;
+	text-align: right;
+	color: white;
+	font-family: Heebo, sans-serif;*/
+}
+
+/*.cards h4{
+
+font-family: Heebo;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+font-size: 18px;
+text-align: left;
+
+color: #7BB8BC;
+margin: 10px;
+
+	font-size: 15px;
+	text-align: right;
+	color: white;
+	font-family: Heebo, sans-serif;
+
+}
+
+.cards h5{*/
+/*position: absolute;
+left: 32.92%;
+right: 61.67%;
+top: 232.14%;
+bottom: -138.96%;*/
+
+/*font-family: Heebo;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+font-size: 14px;
+text-align: left;
+
+color: #02EBFB;
+margin: 10px;
+*/
+	/*font-size: 10px;
+	text-align: right;
+	color: white;
+	font-family: Heebo, sans-serif;
+*/
+}
+
+.cards p{
+	font-size: 15px;
+	text-align: left;
+	color: white;
+	font-family: Heebo, sans-serif;
+}
+
+h3 h4 h5{
+	margin: 10px;
+}*/
+
+/*
+
+.image_1{
+	width: 50px;
+	height: 50px;
+}
+
+
+#banner{
+	display:flex;
+	align-items: center;
+	justify-content: space-around;
+	border: 1px solid gray;
+}
+
+
+.titre_page {
+	margin-right: 40px;
+	border: : 1px solid gray;
+}
+
+
+.user_profile {
+	display: flex;
+	justify-content: space-around;
+	border: 1px solid gray;
+}
+
+
+
+.image_2{
+	width: 35px;
+	height: 50px;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
+
+
+
+.brochette_du_haut{
+	display:flex;
+	align-items: center;
+	justify-content: space-around;
+	border: 1px solid gray;
+}
+
+.Emmanuel{
+	align-items: center;
+	justify-content: space-around;
+	border: 1px solid gray;
+}
+
+
+.Anastasia{
+	border: 1px solid gray;
+}
+
+.Gauthier{
+	border: 1px solid gray;
+}
+
+
+
+.brochette_du_bas{
+	display:flex;
+	align-items: center;
+	justify-content: space-around;
+	border: 1px solid gray;
+}
+
+
+
+.Chi_Lan{
+	border: 1px solid gray;
+}
+
+.Cassandra{
+	border: 1px solid gray;
+}
+
+
+
+.cards{
+	border: 1px solid gray;
+}
+
+
+
+.card{
+	border: 1px solid gray;
+}
+
+
+.back_button{
+	width: 75px;
+	height: 75px;
+	padding-left: 10px
+}
+
+
+.next_button{
+	width: 150px;
+	height: 70px;
+	padding-left: 10px
+}
+
+h1{
+	font-family: 'Heebo', sans-serif;
+	color: white;
+	font-weight: lighter;
+	font-size: 34px
+	
+}	
+
+h2{
+	font-family: 'Heebo', sans-serif;
+	color: white;
+	font-weight: lighter;
+	
+}
+
+h3{
+	font-family: 'Heebo', sans-serif;
+	color: white;
+	font-weight: lighter;
+	font-size: 34px
+	
+}	
+
+h4{
+	font-family: 'Heebo', sans-serif;
+	color: white;
+	font-weight: lighter;
+	
+}
+
+p{
+	font-family: 'Heebo', sans-serif;
+	color: white;
+	font-weight: lighter;
+	
+}	
+
+
+
+
+.buttons{
+	display:flex;
+	text-align: right;
+}
+*/
+
+
+
+/*.picto{
+	width: 35px;
+	height: 50px;
+}
+*/
+
+
+/*
+
+#hard_skills{
+	display:flex;
+	align-items: center;
+	justify-content: space-around;
+	border: 1px solid gray;
+}
+*/
+
+/*
+
+
+
+
+#left{
+	height: 100vh;
+	width: 30px;
+}
+
+#up{
+	height: 30vh;
+	width: 150px;	
+}
+#center-left{
+	height: 50vh;
+	width: 50px;
+}
+
+#center-right{
+	height: 50vh;
+	width: 50px;
+}
